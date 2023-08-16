@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\bin\Debug\net6.0\LibraryMangementSystem.exe
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\bin\Debug\net6.0\LibraryMangementSystem.deps.json
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\bin\Debug\net6.0\LibraryMangementSystem.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\bin\Debug\net6.0\LibraryMangementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\bin\Debug\net6.0\LibraryMangementSystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\refint\LibraryMangementSystem.dll
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.pdb
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\LibraryMangementSystem.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\LibraryMangementSystem\obj\Debug\net6.0\ref\LibraryMangementSystem.dll

@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\bin\Debug\net6.0\StudentRecord.exe
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\bin\Debug\net6.0\StudentRecord.deps.json
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\bin\Debug\net6.0\StudentRecord.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\bin\Debug\net6.0\StudentRecord.dll
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\bin\Debug\net6.0\StudentRecord.pdb
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.dll
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\refint\StudentRecord.dll
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.pdb
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\StudentRecord.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\StudentRecord\obj\Debug\net6.0\ref\StudentRecord.dll

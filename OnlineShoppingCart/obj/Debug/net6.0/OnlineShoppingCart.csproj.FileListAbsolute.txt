@@ -1,0 +1,15 @@
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.AssemblyReference.cache
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfoInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfo.cs
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.exe
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.deps.json
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.runtimeconfig.json
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\refint\OnlineShoppingCart.dll
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.genruntimeconfig.cache
+C:\Users\sushma.devadiga\Documents\C#\OnlineShoppingCart\obj\Debug\net6.0\ref\OnlineShoppingCart.dll
